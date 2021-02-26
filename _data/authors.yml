@@ -25,10 +25,10 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <Kutosotuk>
-    email:           <website@zedari.com>
+    github:          Kutosotuk
+    email:           website@zedari.com
     # rss:             https://<url>/feed.xml
-    facebook:        <wallaceinwonderland>
+    facebook:        wallaceinwonderland
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <joshua-wallace-0a9a50168>
+    linkedin:        joshua-wallace-0a9a50168
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
