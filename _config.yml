@@ -29,7 +29,7 @@ description:           >
   Hosted on Github Pages using Jekyll
 
 # A shorter description for the sidebar.
-tagline:               Zedari Tech
+tagline:               Zedari Technology
 
 # A list of keywords for your blog
 keywords:              [Zedari]
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Zedari> <Technology>
-  email:               <Website@zedari.com>
+  name:                Zedari Technology
+  email:               website@zedari.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
